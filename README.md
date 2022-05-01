@@ -9,6 +9,8 @@ XiaoYouChR    [![Bilibili](https://img.shields.io/badge/dynamic/json?logo=data%3
 ---
 ![](https://genshin-card.getloli.com/rand/72338552.png)
 
+![](https://genshin-card.getloli.com/rand/244949955.png)
+
 ![](https://github.com/XiaoYouChR/github-stats/blob/master/generated/overview.svg)
 
 ![](https://github.com/XiaoYouChR/github-stats/blob/master/generated/languages.svg)
