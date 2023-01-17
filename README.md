@@ -9,7 +9,7 @@ th vistor!
 ___
 #### ✅ About ME
 * I am a 15-year-old Chinese high school student with a little programming knowledge.
-* Learning Language:Python, HTML, Android, Kotlin
+* Learning Language: Python, HTML, Android, Kotlin
 * Nothing can be brought to the stage
 
 <br>
