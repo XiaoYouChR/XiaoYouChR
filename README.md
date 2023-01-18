@@ -27,10 +27,11 @@ ___
 [![Outlook](https://img.shields.io/static/v1?style=for-the-badge&logo=microsoftoutlook&label=Email&message=Outlook&color=353940&labelColor=1793D1)](mailto:XiaoYouChR@outlook.com)
 ---
 #### 🖨️ Workspace
-[![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows11)
+[![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows11)
 [![Microsft Edge](https://img.shields.io/badge/Microsft_Edge-2AC5C8?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://www.microsoft.com/en-us/edge)
-![Pycharm](https://img.shields.io/badge/PyCharm-07E6FD.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-4285F4?style=for-the-badge&logo=android-studio&logoColor=white)
+[![Pycharm](https://img.shields.io/badge/PyCharm-07E6FD.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-4285F4?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 <br>
-![CPU](https://img.shields.io/badge/Intel-Xeon_E3_1241V3-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![GPU](https://img.shields.io/badge/AMD-Readon_RX470-DC261B?style=for-the-badge&logo=amd&logoColor=white)
+[![Mother Board](https://img.shields.io/badge/MSI-Z87_G45_GAMING-F75480?style=for-the-badge&logo=msi&logoColor=white)](https://www.msi.com/)
+[![CPU](https://img.shields.io/badge/Intel-Xeon_E3_1241V3-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/)
+[![GPU](https://img.shields.io/badge/AMD-Readon_RX470-DC261B?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/)
