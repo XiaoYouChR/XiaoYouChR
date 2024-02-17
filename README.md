@@ -34,4 +34,4 @@ ___
 <br>
 [![Mother Board](https://img.shields.io/badge/MSI-Z87_G45_GAMING-F75480?style=for-the-badge&logo=msi&logoColor=white)](https://www.msi.com/)
 [![CPU](https://img.shields.io/badge/Intel-Xeon_E3_1241V3-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/)
-[![GPU](https://img.shields.io/badge/AMD-Readon_RX470-DC261B?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/)
+[![GPU](https://img.shields.io/badge/AMD-Readon_VEGA56-DC261B?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/)
