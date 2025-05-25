@@ -12,14 +12,8 @@ ___
 * Learning Language: Python, JS, C++
 * Nothing can be brought to the stage.
 
-<br>
-
 ![](https://github-readme-stats.vercel.app/api?username=xiaoyouchr&show_icons=true&count_private=true)
 
-<br>
-
-![](https://ys.himiku.com/rand/72338552.png)
-![](https://ys.himiku.com/rand/244949955.png)
 ___
 #### 👁️‍🗨️ Find ME
 
