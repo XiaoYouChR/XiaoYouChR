@@ -3,7 +3,7 @@
 <p align="center">
 Welcome, the
 <a href="https://github.com/XiaoYouChR" target="_blank"><img src="https://count.getloli.com/get/@XiaoYouChR?theme=rule34" alt="Visitor Counter"></a>
-th vistor!
+th visitor!
 </p>
 
 ___
