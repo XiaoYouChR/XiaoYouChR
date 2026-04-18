@@ -9,6 +9,7 @@ th visitor!
 ___
 #### ✅ About ME
 * I am a 18-year-old Chinese university school student with a little programming knowledge.
+* Visit my blog on [🐔哥真爱粉聚集地](https://xychr.com/)
 * Learning Language: `Python`, `Typescript`, `C`, `C++`.
 * Learning Framework: `Qt`, `React`, `NestJS`, `PlatformIO`, `SDCC`.
 * Nothing can be brought to the stage.
