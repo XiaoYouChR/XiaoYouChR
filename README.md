@@ -14,7 +14,15 @@ ___
 * Learning Framework: `Qt`, `React`, `NestJS`, `PlatformIO`, `SDCC`.
 * Nothing can be brought to the stage.
 
+<a href="https://ghfind.com/u/xiaoyouchr?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/xiaoyouchr?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/xiaoyouchr?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
+
 <a href="https://gitroll.io/profile/uTOe9mniSUKXXgo44rlNxY7yW8563" target="_blank"><img width="400px" src="https://gitroll.io/api/badges/profiles/v1/uTOe9mniSUKXXgo44rlNxY7yW8563?theme=light" alt="GitRoll Profile Badge"/></a>
+
 ![](https://github-readme-stats.shion.dev/api?username=xiaoyouchr&show_icons=true&count_private=true)
 
 ___
